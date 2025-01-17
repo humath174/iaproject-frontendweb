@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3c454ef5-e3fc-482c-b01e-db733f86710d" name="webserveur">
+        <fileTransfer rootFolder="/home/serveur/iagenerativ" accessType="SFTP" host="10.20.10.11" port="22" sshConfigId="68baef8d-5ab5-4324-8512-1135ca0bb37f" sshConfig="serveur@10.20.10.11:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
